@@ -35,4 +35,4 @@ while the == True:
     print("")
     print(coderevis.text)
     the = False
-
+    
